@@ -1,0 +1,17 @@
+[33mcommit ded3b902b9d17637a2e39784e8a34c2ba34223c6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Mario Bustamante <mario@mb-informatica.com.ar>
+Date:   Sun Sep 28 01:37:46 2025 -0300
+
+    🎉 Configuración inicial del proyecto
+    
+    - Estructura de directorios creada
+    - Entorno virtual configurado
+    - VSCode configurado con debugging
+    - Archivos básicos (.gitignore, README, etc.)
+    - Git inicializado
+
+.env.example
+.gitignore
+.vscode/launch.json
+README.md
+requirements.txt
